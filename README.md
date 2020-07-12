@@ -43,13 +43,15 @@ Coming Soon
 ## users.csv
 | column name | description | example |
 | ----------- | ----------- | ------- |
-| name | name of earner | George Washington |
-| email | email of the earner | george@example.org |
-| facebook | facebook url of the earner | https://www.facebook.com/.../ |
-| github | github url of the earner | https://github.com/DanielJDufour |
-| linkedin | linkedin of the earner | https://www.linkedin.com/in/danieljdufour |
-| twitter | twitter handle of the earner | @danieljdufour |
-| website | website of the earner | https://danieljdufour.com/ |
+| name | name of user | George Washington |
+| email | email of the user | george@example.org |
+| facebook | facebook url of the user | https://www.facebook.com/.../ |
+| first_name | first name of the user | Daniel |
+| github | github url of the user | https://github.com/DanielJDufour |
+| last_name | last name of the user | Dufour |
+| linkedin | linkedin of the user | https://www.linkedin.com/in/danieljdufour |
+| twitter | twitter handle of the user | @danieljdufour |
+| website | website of the user | https://danieljdufour.com/ |
 
 ## Under Consideration
 - alignments.csv
