@@ -27,18 +27,7 @@ Coming Soon
 | tags | comma separated tags | beginner,cartography |
 | issuer | name of issuer | American Geographical Society |
 
-## earners.csv
-| column name | description | example |
-| ----------- | ----------- | ------- |
-| name | name of earner | George Washington |
-| email | email of the earner | george@example.org |
-| facebook | facebook url of the earner | https://www.facebook.com/.../ |
-| github | github url of the earner | https://github.com/DanielJDufour |
-| linkedin | linkedin of the earner | https://www.linkedin.com/in/danieljdufour |
-| twitter | twitter handle of the earner | @danieljdufour |
-| website | websit of the earner | https://danieljdufour.com/ |
-
-# issuers.csv
+## issuers.csv
 | column name | description | example |
 | ----------- | ----------- | ------- |
 | name | name of issuer | American Geographical Society |
@@ -51,6 +40,17 @@ Coming Soon
 | twitter | twitter handle of the issuer | @geosurge |
 | website | website of the issuer | https://americangeo.org/ |
 
+## users.csv
+| column name | description | example |
+| ----------- | ----------- | ------- |
+| name | name of earner | George Washington |
+| email | email of the earner | george@example.org |
+| facebook | facebook url of the earner | https://www.facebook.com/.../ |
+| github | github url of the earner | https://github.com/DanielJDufour |
+| linkedin | linkedin of the earner | https://www.linkedin.com/in/danieljdufour |
+| twitter | twitter handle of the earner | @danieljdufour |
+| website | website of the earner | https://danieljdufour.com/ |
+
 ## Under Consideration
 - alignments.csv
 - keys.csv
@@ -60,4 +60,5 @@ Coming Soon
 
 ## Additional Notes
 - We opted not to include a criteria.csv, because we thought it easier to include the criteria information in the criteria column of the badges.csv
+- We opted not to have an earners.csv, because that is covered by the users.csv
 
