@@ -1,5 +1,5 @@
 # open-badges-csv
-CSV Format for OpenBadges Inspired by OpenBadges v2.0 Specification found here: https://www.imsglobal.org/sites/default/files/Badges/OBv2p0Final/index.html
+CSV Format for an OpenBadges Server Inspired by OpenBadges v2.0 Specification found here: https://www.imsglobal.org/sites/default/files/Badges/OBv2p0Final/index.html
 
 # extensions
 Extensions are additional columns that can be added to a CSV.
@@ -44,7 +44,7 @@ Coming Soon
 ## users.csv
 | column name | description | example |
 | ----------- | ----------- | ------- |
-| email | email of the user | george@example.org |
+| emails | comma separated emails of the user (with the first being the primary) | george@example.org |
 | facebook | facebook url of the user | https://www.facebook.com/.../ |
 | first_name | first name of the user | Daniel |
 | github | github url of the user | https://github.com/DanielJDufour |
