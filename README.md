@@ -1,19 +1,6 @@
 # open-badges-csv
 CSV Format for OpenBadges Inspired by OpenBadges v2.0 Specification found here: https://www.imsglobal.org/sites/default/files/Badges/OBv2p0Final/index.html
 
-# csv files
-- alignments.csv
-- assertions.csv
-- badge-classes.csv
-- evidence.csv
-- keys.csv
-- issuers.csv
-- images.csv
-- profiles.csv
-- recipients.csv
-- revocations.csv
-- verifications.csv
-
 # extensions
 Extensions are additional columns that can be added to a CSV.
 
