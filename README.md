@@ -43,7 +43,6 @@ Coming Soon
 ## users.csv
 | column name | description | example |
 | ----------- | ----------- | ------- |
-| name | name of user | George Washington |
 | email | email of the user | george@example.org |
 | facebook | facebook url of the user | https://www.facebook.com/.../ |
 | first_name | first name of the user | Daniel |
