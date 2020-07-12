@@ -42,6 +42,7 @@ Coming Soon
 | column name | description | example |
 | ----------- | ----------- | ------- |
 | name | name of issuer | American Geographical Society |
+| image | image of the issuer | https://example.org/ags-logo.png |
 | email | email of the issuer | hello@example.org |
 | facebook | facebook url of the issuer | https://facebook.com/geosurge |
 | github | github url of the issuer | https://github.com/GeoSurge |
