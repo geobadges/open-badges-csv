@@ -36,7 +36,8 @@ Coming Soon
 | description | description of the issuer | S.H.I.E.L.D. is a fictional espionage, special law enforcement, and counter-terrorism agency appearing in American comic books published by Marvel Comics. |
 | facebook | facebook url of the issuer | https://facebook.com/geosurge |
 | github | github url of the issuer | https://github.com/GeoSurge |
-| linkedin | linkedin of the issuer | https://www.linkedin.com/company/1238971287361278653765123
+| linkedin | linkedin of the issuer | https://www.linkedin.com/company/1238971287361278653765123 |
+| staff | comma separated list of staff members' emails | daniel@geosurge.io,victoria@geosurge.io |
 | twitter | twitter handle of the issuer | @geosurge |
 | website | website of the issuer | https://americangeo.org/ |
 
