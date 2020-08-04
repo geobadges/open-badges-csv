@@ -41,6 +41,16 @@ Coming Soon
 | twitter | twitter handle of the issuer | @geosurge |
 | website | website of the issuer | https://americangeo.org/ |
 
+## claim_codes.csv
+| column name | description | example |
+| ----------- | ----------- | ------- |
+| claim_code  | UTF-8 String that users can use to claim a badge | GeoTIFF2020 |
+| issuer_name | Name of the Issuer | American Geographical Society |
+| badge_name  | Name of the Badge  | Open Source Contributor | 
+| expiration_datetime | ISO Timestamp of when the claim code expires.  If you just put the year-month-day, it will assume it expires at midnight/morning 00:00 on the day specified. | 2020-08-04T17:00:46.541Z | 
+
+
+
 ## users.csv
 | column name | description | example |
 | ----------- | ----------- | ------- |
